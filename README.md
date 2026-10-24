@@ -3,7 +3,7 @@
 Analysis code for:
 
 > Kahlani M, Mesner L, *et al.* Identification of target genes and regulatory networks for bone
-> mineral density GWAS loci through systematic targeting and inhibition. *Nature Genetics* (2026).
+> mineral density GWAS loci through systematic targeting and inhibition. *bioRxiv* (2026).
 > DOI: TBD
 
 STING-seq links fine-mapped noncoding GWAS variants to their target genes and downstream
